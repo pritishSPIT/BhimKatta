@@ -36,7 +36,7 @@ server-
 npm start
 
 client- 
-export NODE_OPTIONS=--openssl-legacy-provider
+set NODE_OPTIONS=--openssl-legacy-provider
 npm run dev
 
 
